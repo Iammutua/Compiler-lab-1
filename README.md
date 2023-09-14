@@ -50,8 +50,8 @@ This file explains the steps taken to implement a lexer for compiler constructio
 
 Compile the generated C code using GCC:
 
-`gcc -o tokenizer lex.yy.c -lfl`
-   This produces an executable called `tokenizer``
+`gcc -o tokenizer lex.yy.c -lfl`  
+This produces an executable called `tokenizer``
 
 ### Step 5 : Run the lexer
 
