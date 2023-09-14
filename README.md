@@ -44,18 +44,19 @@ This file explains the steps taken to implement a lexer for compiler constructio
    ```bash
    flex lexer.l
 
-2. This generates a file called lex.yy.c.
+2. This generates a file called `lex.yy.c`
 
 ### Step 4 : Compile the lexer
 
 Compile the generated C code using GCC:
 
-gcc -o tokenizer lex.yy.c -lfl
-This produces an executable called tokenizer
+`gcc -o tokenizer lex.yy.c -lfl`
+This produces an executable called `tokenizer``
 
 ### Step 5 : Run the lexer
 
-./tokenizer < input.txt
+   ```bash
+   ./tokenizer < input.txt
 
 
 
