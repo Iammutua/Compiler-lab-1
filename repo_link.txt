@@ -1,1 +1,7 @@
+Group members :
+    1. Salomon Metre [121891]
+    2. Wambua James Mutua [129040]
+    3. Oguta Cassey Moses [119314]
+    4. 
+
 https://github.com/Iammutua/Compiler-lab-1
