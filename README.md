@@ -57,8 +57,3 @@ This produces an executable called `tokenizer``
 
    ```bash
    ./tokenizer < input.txt
-
-
-
-
-
